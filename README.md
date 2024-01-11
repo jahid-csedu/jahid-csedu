@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Jahid Hasan</h1>
 <h2 align="center">A seasoned backend developer with expertise in Java ecosystem</h2>
 <h4>Get my complete Portfolio <a href="https://jahid-csedu.github.io/">here</a></h4>
-<p>📫 How to reach me <b>jahid.csedu@gmail.com</b></p>
+<p>📫 Reach me at <b><a href="mailto:jahid.csedu@gmail.com">jahid.csedu@gmail.com</a></b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jahid-csedu&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-csedu" /></p>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid-csedu" alt="jahid-csedu" /></a>

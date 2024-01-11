@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Jahid Hasan</h1>
 <h3 align="center">A seasoned backend developer with expertise in Java ecosystem</h3>
 <h4>Get my complete Portfolio <a href="https://jahid-csedu.github.io/">here</a></h4>
+<p>📫 How to reach me <b>jahid.csedu@gmail.com</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jahid-csedu&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-csedu" /></p>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid-csedu" alt="jahid-csedu" /></a>
 </p>
-- 📫 How to reach me **jahid.csedu@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/jahid-csedu" target="blank">
